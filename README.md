@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AgataMatras
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking to collaborate on interestiong projects.
+- 📫 How to reach me agata.gasinska@gmail.com
